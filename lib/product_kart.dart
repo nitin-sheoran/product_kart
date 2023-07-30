@@ -28,12 +28,12 @@ class _ProductKartState extends State<ProductKart> {
       rating: '4.1',
     ),
     Product(
-      name: 'boAt 510 Super Bass Bluetooth',
+      name: 'Boat 720 Super Bass Bluetooth',
       image:
           'https://th.bing.com/th?id=OPA.Plj5ntVdI7EgWA474C474&w=220&h=220&o=5&pid=21.1',
       price: 55.99,
       description: 'great outerwear bluetooth for Spring/Autumn/Winter,suitable for many,such as working,hiking,camping,mountain/rock clamping,cycling,travelling or other outdoors,Good gift choice for you or your family member.A warm hearted love to Father member.A warm hearted love=e to after,husband or son in this Day.',
-      rating: '4.7',
+      rating: '5',
     ),
     Product(
       name: 'Mens Casual Slim Fit',

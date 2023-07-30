@@ -10,7 +10,7 @@ class ProductDetail extends StatelessWidget {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Product Details'),
+        title: const Text('Product Detail'),
       ),
       body: SafeArea(
         child: Padding(
